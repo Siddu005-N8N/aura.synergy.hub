@@ -1,0 +1,13 @@
+{
+  "status": "healthy",
+  "service": "aura-synergy-hub-frontend",
+  "version": "1.0.0",
+  "timestamp": "2025-09-21T21:52:00Z",
+  "environment": "production",
+  "build": {
+    "framework": "React 18 + TypeScript",
+    "bundler": "Vite",
+    "styling": "Tailwind CSS",
+    "components": "Radix UI + shadcn/ui"
+  }
+}
